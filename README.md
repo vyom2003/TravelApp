@@ -87,7 +87,8 @@ These instructions will guide you on setting up the project on your local machin
 Each service within the project can be started using the following command format. Navigate to the desired service directory and run the service:
 
 ```bash
-cd <folder_name>  # replace <folder_name> with the actual service directory name
+cd backend
+cd <folder_name>  # replace <folder_name> with the service directory name
 python3 run.py
 ```
 
